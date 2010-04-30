@@ -22,7 +22,7 @@ no_index:
 provides:
   Module::CoreList::DBSchema:
     file: lib/Module/CoreList/DBSchema.pm
-    version: 0.04
+    version: 0.06
 requires:
   Clone: 0.31
   Module::CoreList: 2.29
@@ -32,4 +32,4 @@ resources:
   homepage: http://github.com/bingos/module-corelist-dbschema/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/bingos/module-corelist-dbschema.git
-version: 0.04
+version: 0.06

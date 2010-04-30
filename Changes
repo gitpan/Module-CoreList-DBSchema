@@ -1,4 +1,15 @@
 ==============================
+2010-04-30 16:23:51 +0100 0.06
+==============================
+
+  commit ff9b448a50ea7be97977cc80e35e9e3cb2e5df92
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Fri Apr 30 16:23:51 2010 +0100
+  
+    Add a 'prefix' option to data() method so we can add a prefix to the
+    table names in the SQL 
+
+==============================
 2010-04-21 11:57:21 +0100 0.04
 ==============================
 
